@@ -1,2 +1,2 @@
-# R_intro
+# Introducción a R
 Introducción a R
