@@ -16,32 +16,25 @@ La programación estadística es un enfoque que combina la estadística con la p
 
 R es un lenguaje de programación y un entorno de software diseñado específicamente para análisis estadístico y gráfico. Ofrece una amplia funcionalidad estadística, gráficos de alta calidad, facilidad de extensión a través de paquetes, interactividad y compatibilidad con diversas plataformas. Estas características hacen que R sea una herramienta poderosa y versátil ampliamente utilizada en el ámbito académico, de investigación y empresarial para el análisis y la visualización de datos.
 
-# Sobre R
+## Sobre R
 
-## Convenciones de Nomenclatura
-
+**Convenciones de Nomenclatura:**
 Antes de profundizar en la programación, es fundamental entender las reglas y prácticas comunes que guían cómo nombramos los elementos en R. Aprenderemos a asignar nombres a objetos, variables, funciones y más de manera coherente y fácil de comprender.
 
-## Control del Flujo de Ejecución
-
+**Control del Flujo de Ejecución:**
 Exploraremos cómo dirigir la secuencia de operaciones de un programa mediante la toma de decisiones y la repetición de tareas. Utilizaremos estructuras de control de flujo, como condicionales y bucles, para lograrlo.
 
-## Gestión de Datos
-
+**Gestión de Datos:**
 Las estructuras de datos son esenciales para organizar y manipular información de manera eficiente. Investigaremos sobre vectores, matrices, listas y marcos de datos, comprendiendo cuándo y cómo utilizar cada uno de ellos.
 
-## Funciones y Paquetes
-
+**Funciones y Paquetes:**
 Las funciones nos permiten encapsular lógica y reutilizar código. Exploraremos la modularización mediante la creación y uso de paquetes, facilitando el mantenimiento y la organización de nuestros programas.
 
-## Programación Orientada a Objetos
-
+**Programación Orientada a Objetos:**
 R también ofrece soporte para la programación orientada a objetos, un enfoque que permite modelar el mundo real de manera efectiva. Abordaremos conceptos como clases, métodos y herencia.
 
-## Manejo de Errores
-
+**Manejo de Errores:**
 Aprenderemos a manejar errores y excepciones de manera efectiva, fortaleciendo la robustez de nuestros programas ante situaciones inesperadas.
 
-## Buenas Prácticas
-
+**Buenas Prácticas:**
 Nos enfocaremos no solo en aprender a programar, sino también en escribir código claro y seguir las mejores prácticas de desarrollo. Esto es fundamental para colaborar con otros programadores y mantener proyectos a largo plazo.
